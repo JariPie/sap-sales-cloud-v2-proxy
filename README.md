@@ -22,7 +22,7 @@ The code in this repository demonstrates the *structure* and *approach*—enough
 
 ## Read the Full Story
 
-[Blog Post: Connecting SAP Sales Cloud V2 to Standalone SAC](#)
+[Blog Post: Connecting SAP Sales Cloud V2 to Standalone SAC](https://community.sap.com/t5/crm-and-cx-blog-posts-by-members/connecting-sap-sales-cloud-v2-to-a-standalone-sap-analytics-cloud-a/ba-p/14310439)
 
 The blog post walks through the challenges (the 999-record limit, the $skip 10k wall, nested object flattening) and explains the solutions in detail.
 
